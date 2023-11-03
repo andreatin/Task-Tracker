@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Task Tracker Walkthrough](https://youtube.com/shorts/yBEyhAscPiI?si=X10EGoQcx3bntOIC)
+[Task Tracker Walkthrough](https://youtu.be/rn_KbfKduHA)
 
 ## Notes
 
